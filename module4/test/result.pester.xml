@@ -1,0 +1,18 @@
+﻿<?xml version="1.0" encoding="utf-8" standalone="no"?>
+<test-results xmlns:xsi="http://www.w3.org/2001/XMLSchema-instance" xsi:noNamespaceSchemaLocation="nunit_schema_2.5.xsd" name="Pester" total="1" errors="0" failures="0" not-run="0" inconclusive="0" ignored="0" skipped="0" invalid="0" date="2019-07-30" time="16:24:22">
+  <environment cwd="/Users/james/src/github/forks/JamesWTruher/module4/module4/test" clr-version="Unknown" user-domain="" user="james" machine-name="Jamess-MBP-2.guest.corp.microsoft.com" platform="Darwin" nunit-version="2.5.8.0" os-version="18.6.0" />
+  <culture-info current-culture="en-US" current-uiculture="en-US" />
+  <test-suite type="TestFixture" name="Pester" executed="True" result="Success" success="True" time="0.3812" asserts="0" description="Pester">
+    <results>
+      <test-suite type="TestFixture" name="/Users/james/src/github/forks/JamesWTruher/module4/module4/test/module4.Tests.ps1" executed="True" result="Success" success="True" time="0.3812" asserts="0" description="/Users/james/src/github/forks/JamesWTruher/module4/module4/test/module4.Tests.ps1">
+        <results>
+          <test-suite type="TestFixture" name="Test module4" executed="True" result="Success" success="True" time="0.3058" asserts="0" description="Test module4">
+            <results>
+              <test-case description="This is the first test for module4" name="Test module4.This is the first test for module4" time="0.0771" asserts="0" success="True" result="Success" executed="True" />
+            </results>
+          </test-suite>
+        </results>
+      </test-suite>
+    </results>
+  </test-suite>
+</test-results>
